@@ -1,4 +1,4 @@
-# Extended MVP for Preparaation Practise prepprac.com.
+# Minimum Viable Product for (Preparation Practise) prepprac.com.
 
 ## 💼 Executive Summary.
 Prepprac is a comprehensive online platform that offers a wide range of preparation resources and learning services for various fields and industries. The platform caters to job seekers and academicians by providing free, diverse, and exhaustive preparation materials for exams and job assessments.
