@@ -24,4 +24,7 @@ Next.js is the framework of choice for building the frontend of our web
 ```bash
 # Create a new Next.js project with TypeScript template.
 npx create-next-app@latest -y
+
+
+# Run application
 ```

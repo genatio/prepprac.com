@@ -9,6 +9,19 @@ Many individuals face challenges in finding a platform that offers high-quality 
 ## 🎯 Target Market.
 Prepprac's target market includes students, professionals, and job seekers who are seeking to excel in exams and assessments. It caters to individuals from diverse academic backgrounds and industries.
 
+## Features.
+### Testing Client.
+1. Search for test by field, topic and keyword.
+2. Define test conditions; nuumber of questions, difficuties, duration, topics,
+timed-questions, hints, explanations, pass-mark
+3. Take a test, see a list of done tests and results.
+4. See test results and analytics: performance graph, previous results.
+
+### Test creator.
+1. Create a tests.
+2. Create questions, answers, explanations, hints, field, topics, keywords.
+3. Create tests for specific users.
+
 ## 📝 Feature List.
 1. **Comprehensive Test Library:** Access to an extensive test library covering aptitude tests, academic exams, professional certifications, and industry-specific assessments.
 
