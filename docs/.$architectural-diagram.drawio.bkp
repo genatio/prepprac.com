@@ -1,0 +1,16 @@
+<mxfile host="Electron" modified="2023-07-26T16:46:30.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="ylrJ2C6iVSz1pk87bhmP" version="21.6.5" type="device">
+  <diagram name="Page-1" id="ZYOFwBCjm-X5c_ukMNiq">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2WFyMve3jc7JLVwT-NdR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="970" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="2WFyMve3jc7JLVwT-NdR-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.aws.amazon.com/images/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/images/single-page-application.png;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="974" height="539" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
